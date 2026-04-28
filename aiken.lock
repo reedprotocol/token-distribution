@@ -1,0 +1,10 @@
+[[requirements]]
+name = "aiken-lang/stdlib"
+version = "2.2.0"
+source = "github"
+
+[[packages]]
+name = "aiken-lang/stdlib"
+version = "2.2.0"
+requirements = []
+source = "github"
